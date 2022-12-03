@@ -13,7 +13,7 @@ Developing Languages and Tools
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 Testing Languages and Tools
 
