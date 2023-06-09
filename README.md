@@ -8,7 +8,7 @@ My skills and competencies
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
